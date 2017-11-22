@@ -1,2 +1,6 @@
 # hello-world
-Repository let's go
+
+Hi People
+
+Serrgio Here, I'll do my best
+Just do It
